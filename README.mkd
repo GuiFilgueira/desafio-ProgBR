@@ -1,0 +1,14 @@
+
+
+# Desafio de CSS 
+
+
+
+Este repositório esta direcionado ao desafio de CSS do curso Programador BR
+
+
+
+Aprendi varias formas de estilizar uma página e com esses conhecimento pude fazer um cartão de visitas :happy:
+
+
+
